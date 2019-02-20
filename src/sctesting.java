@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 class sctesting {
 
 	shopcart c1;
+	
 	@Test
 	void test() {
 		c1=new shopcart();
