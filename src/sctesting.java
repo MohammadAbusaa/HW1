@@ -11,7 +11,7 @@ class sctesting {
 		c1=new shopcart();
 		assertTrue(0==c1.itemscount());
 	}
-	@Test
+	@Test 
 	void test2() {
 		c1=new shopcart();
 		c1.additem();
